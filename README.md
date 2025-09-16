@@ -1,5 +1,6 @@
 # EXP:01 Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
+## REG NO: 212223230166
+## NAME: RAJKUMARB G
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
